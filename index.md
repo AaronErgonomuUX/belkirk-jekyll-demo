@@ -18,7 +18,7 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences (test)
 textline: |
-  Belkirk College of Engineering
+  CNSG U
 
   Ora et Labora
 hero_button:
