@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/01/09/longcnsg.jpg"
 layout: landing-page
-heading: Aaron's College
+heading: CNSG U
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
