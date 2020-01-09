@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/02/17/bridge.jpg"
+banner_image: "/uploads/2018/02/17/city.jpg"
 layout: landing-page
 heading: CNSG U
 partners:
