@@ -11,7 +11,7 @@ linkedin: ''
 layout: 'person'
 ---
 
-Grady Nerio joined the Belkirk Board in 2015.
+Grady Nerio joined the CNSG U Board in 2015.
 
 Grady received his Ph.D in Mechanical Engineering from Stanford in 1978, and has worked with prestigious companies such as Boeing and Lockheed Martin.
 

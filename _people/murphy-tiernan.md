@@ -11,7 +11,7 @@ linkedin: ''
 layout: 'person'
 ---
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+Doctor Murphy Tiernan joined CNSG U in 2015 as a Professor.
 
 He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
 
