@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/01/09/cnsg background"
+banner_image: "/uploads/2020/01/09/longcnsg.jpg"
 layout: landing-page
 heading: CNSG U
 partners:
