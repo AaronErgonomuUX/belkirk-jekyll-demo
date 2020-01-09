@@ -11,7 +11,7 @@ linkedin: ''
 layout: 'person'
 ---
 
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
+Martin Marino joined CNSG U in 2016 as an advisor and member of the Board.
 
 Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
 
